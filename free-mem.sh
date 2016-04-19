@@ -3,7 +3,7 @@
 
 DATE="`date`"
 
-LOGFILE=/$HOME/myscripts/free-mem.sh.log
+LOGFILE=$HOME/myscripts/free-mem.sh.log
 
 echo "============================ $DATE ==================================" >> $LOGFILE
 echo "Your Server Free Memory Script" >> $LOGFILE
