@@ -11,10 +11,15 @@ This script allows free up RAM (via drop caches) on your linux server
 --------------------------------------------
 
 TABLE OF CONTENTS
+
 I.   INTRODUCTION		
+
 II.  DOCUMENTATION
+
 III. CRON
+
 IV. CONTACT INFO
+
 V.  REPORTING BUGS
 
 Project WebSite: 
